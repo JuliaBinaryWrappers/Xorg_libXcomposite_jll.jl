@@ -1,128 +1,128 @@
 [[Xorg_libXcomposite]]
 arch = "aarch64"
-git-tree-sha1 = "82952fd8ea59491513d587188282ef1b1cb86c59"
+git-tree-sha1 = "21ffca0660b56f6d55eea8e9cb8a96a3b3369938"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "19c3e4c6869cc9786be1c09a88bba02d1f0d6ee131c3bc7e11f69dddc89f3f7e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.aarch64-linux-gnu.tar.gz"
+    sha256 = "39a7d74864605e83187c5d1fb6c31b427d9fd07c2cdde948e299325fa26dcd9b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.aarch64-linux-gnu.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "aarch64"
-git-tree-sha1 = "1630451715101ffe60d7ceb4700862cfd6b7835e"
+git-tree-sha1 = "0540e3e35f8bff7620392c925755ca0d99530d3f"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "fe8fbad8c8a1110aa2c9298c71b79ccaf4d6b7fb6d11610e2739e4be8b2c51cf"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.aarch64-linux-musl.tar.gz"
+    sha256 = "8fc8c322327572ffb720a1c31e5714dc330ce00fa0e7343495513160d884101e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.aarch64-linux-musl.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "aarch64"
-git-tree-sha1 = "f37e23190d25f0fa75d2dadbfa56636274cd13b4"
+git-tree-sha1 = "ba78e1ff28a716db799b1cc998af2ed7d163c25b"
 os = "freebsd"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "bb5b60684fe160c55bd353aba4e338b118690c88c9f4c516d8898808accf2003"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "851f12bc978f875e7f3a0e1da0f2e1b5f0fbd6a36d57c8b258185efebb781d49"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.aarch64-unknown-freebsd.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "57a6f54d0dbbf7e99b60fa240c6cf5704cf45210"
+git-tree-sha1 = "f0926d0b00eb947447a112ecd94a17318fcf4766"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "3cc470f81caeffd8c8597ee8fd46cb9f053f5958f5c9b2beac955cd0aaaa1b7e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "940962a27fd5054c08b3f6d8988d667ca5b7d40792eb785ebc732b7fe7e981ac"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.armv6l-linux-gnueabihf.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "002dc06bc9cdf1904853592c6fc437b2fb93e873"
+git-tree-sha1 = "9b1e09824f8a9421cb4af9b61302e78994fe7887"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "274fccac4371d673ff4d28b1e9c53e72aef3ddbe245dbadd12f545d6b7b28b92"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "db5b5798b44abbd231044daa368d65b47687dd4a663327a01c241dea52fd446d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.armv6l-linux-musleabihf.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3b439fb6a4a2ec6c206ee71da935cd3371f106fc"
+git-tree-sha1 = "1bb65403513ba040e434e252230d2d5cad6d0826"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "0976ec9137c7775eba0a820fb12dd0b6027697fff5155d0035cc63f59be32f76"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "66e4773a2f94992932c74b517fee883585c8129921f04e2b9b3419ea8ec35a41"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2daabed6f298feef4df91be63d15bbff81773380"
+git-tree-sha1 = "9b8f2b4cd2273d8ffec3c65ddcf760ba04bd901d"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "95acd3fd95dfaa381bf974dc63f81d3e617c2cb07823ea2f2952de6e501551cb"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "14f7e2792bd10b388b054feb89da5df3151c2951fe670795b3b323406561fb28"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.armv7l-linux-musleabihf.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "i686"
-git-tree-sha1 = "0120350f32100baf29ef12c14789b368e5ed3359"
+git-tree-sha1 = "14cc4dd44c4f36730ff16f640411a04edf4132de"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "e3e1c1125d06f840b48da3fe47c08619bb89493f078f4e5a61dbb769ed24eac7"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.i686-linux-gnu.tar.gz"
+    sha256 = "76869a6dffad15373d5d53ad3fbf44de53ab583acef370858ea245dc94251ab6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.i686-linux-gnu.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "i686"
-git-tree-sha1 = "3dc1ac3dc7a7db11bd8801d2e466ea89360372bd"
+git-tree-sha1 = "487cacadb429c85db25f4a5ebf688362254d21f2"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "29f589445fbe91f51e8e0d5064703ae7bc81b7cd1c832981ab92f7f531c5081d"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.i686-linux-musl.tar.gz"
+    sha256 = "9d9cde052a2454be1467d0e165f6c7e9257e45c69a4f0748a4b69ff0bae0a9ed"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.i686-linux-musl.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "powerpc64le"
-git-tree-sha1 = "d48635924e187718810cc57608f05bc7ebe9dea9"
+git-tree-sha1 = "d090c5c91b8d24695d1b4e8d4222a8c07c127a6c"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "a6f8a2de0504e74388bc76d563bfa1f1531b86a6bafff36725cc1235a227a30c"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "773c59158cfe067a07ecf08970e2c45adc178741f2796e26d872e83fee86a3e6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.powerpc64le-linux-gnu.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "riscv64"
-git-tree-sha1 = "3cec8b0b0bd20043a5d8a1c4038a94e45c845e69"
+git-tree-sha1 = "1d7a4895adea297f1ebec68a7e401a0a842468c7"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "bb9e9caf5a8467816c71b5404aa64026a0d2dfc994868af54466915d4721166b"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.riscv64-linux-gnu.tar.gz"
+    sha256 = "1e8b49e97390b07bb9cfe0131afd8b6a39e81066527c406687d1eb6aa7b83fc5"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.riscv64-linux-gnu.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "x86_64"
-git-tree-sha1 = "c9db16e7194cc1eaa1f9c150a2d25ff6e553efdb"
+git-tree-sha1 = "748b3bd189f017e34e952ad928de35f789b04484"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "f75b34f7d09da9279ab05520e53dc3cb9f6c7d18d739da9ac90e951cba17d6c6"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.x86_64-linux-gnu.tar.gz"
+    sha256 = "6ac0db8bbc69edd6f0ffcf5c80af5f68cd0dc3fce29ea1fc0c2e95dfe438c16b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.x86_64-linux-gnu.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "x86_64"
-git-tree-sha1 = "9c5d5d3fba083b18e23566e8a43e878b9ca7ffcc"
+git-tree-sha1 = "b4457a9f6eff4a6969bb11e0fa53f6088d4c5df3"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "0a7f6b0a4c2652b3c4858b347e2be0f67a7619e665068433606303db6034d266"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.x86_64-linux-musl.tar.gz"
+    sha256 = "3b325441caaddd235cc6d1c82e69aeacdb842faf7010a8ec8facbcc09796df5c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.x86_64-linux-musl.tar.gz"
 [[Xorg_libXcomposite]]
 arch = "x86_64"
-git-tree-sha1 = "81e1e4f1ad2adf27489059c200c8d74d156fc956"
+git-tree-sha1 = "c821277ee5da8eaea5e12b1f9356601ea4c34372"
 os = "freebsd"
 
     [[Xorg_libXcomposite.download]]
-    sha256 = "f4e9b295cd0277d178198410899ecd3ab44a21054ae1c8ce76a5efffaf87aff2"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.6+0/Xorg_libXcomposite.v0.4.6.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "422a10c2035a961adf6b5f0c52842bee382e700d644d0575c2edca747dc72d0a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXcomposite_jll.jl/releases/download/Xorg_libXcomposite-v0.4.7+0/Xorg_libXcomposite.v0.4.7.x86_64-unknown-freebsd.tar.gz"

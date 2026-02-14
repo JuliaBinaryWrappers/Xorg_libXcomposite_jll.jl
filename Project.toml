@@ -1,6 +1,6 @@
 name = "Xorg_libXcomposite_jll"
 uuid = "3c9796d7-64a0-5134-86ad-79f8eb684845"
-version = "0.4.6+0"
+version = "0.4.7+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
